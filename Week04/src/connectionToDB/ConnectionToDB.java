@@ -22,7 +22,7 @@ public class ConnectionToDB {
             //String dbServer = "jdbc:mysql://127.0.0.1:3306 //this works as well
             String dbServer = "jdbc:mysql://localhost:3306/books?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT";
             String user = "root";   //ID
-            String password = "hh20622";   //password
+            String password = "passwordgoeshere";   //password
             String query = "SELECT * FROM title_authors";    //sql quesry 
             
             /*
