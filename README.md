@@ -10,3 +10,8 @@ implements == use the elements of a Java Interface in your class(es) as many int
 # ./Week03/src/
 public void actionPerformed(ActionEvent e) {}
 ![JFrame and ActionListenenr understanding](https://user-images.githubusercontent.com/47160450/66155242-1a379f80-e617-11e9-83ba-de9abd39b73f.png)
+# ./Week05/src
+MVC https://www.geeksforgeeks.org/mvc-design-pattern/
+![MVC_explanation01](https://user-images.githubusercontent.com/47160450/67037769-12e3bc00-f116-11e9-8e59-716b50f3e682.png)
+MVC https://www.codeproject.com/Articles/25057/Simple-Example-of-MVC-Model-View-Controller-Design
+![MVC_explanation02](https://user-images.githubusercontent.com/47160450/67037792-1bd48d80-f116-11e9-9178-6e8321800927.png)
