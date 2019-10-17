@@ -32,7 +32,7 @@ public class LoginModel {
             String dbServer = //dbServer that spepcifies a specific database in databases in sql
             "jdbc:mysql://localhost:3306/week05_gui?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=GMT";
             String user = "root";   //ID
-            String password = "hh20622";   //password
+            String password = "pswGoesHere";   //password
             
             /**
              * sql query goes here;
